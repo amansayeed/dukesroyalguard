@@ -1,0 +1,8 @@
+<?php
+/**
+ * Template Name:Marketing Guides Page
+ *
+ */
+get_header(); ?>
+
+<?php get_footer();?>
